@@ -7,7 +7,7 @@ ARTランタイムで実行したときには"ART"と表示されるプログラ
 
 解説
 ----
-内部クラスのClassExt.InnerClassExt.getRuntimeType()メソッドで、
+ClassExt.getRuntimeTypeImpl()メソッドで、
 
 <pre>
 The method ClassExt.getRuntimeTypeImpl() does not override the inherited 
