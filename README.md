@@ -1,6 +1,6 @@
 MysteriousRuntimeBehavior
 ====
-AndroidのDalvikランタイムとARTランタイムで挙動が変わるコードのサンプル。
+AndroidのDalvikランタイムとARTランタイムで挙動が異なるコードのサンプル。
 
 解説
 ----
